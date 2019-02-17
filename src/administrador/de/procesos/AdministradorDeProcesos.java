@@ -15,6 +15,8 @@ public class AdministradorDeProcesos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //este es un cambio
+        
         Admi Admixd= new Admi();      
         Proceso p1= new Proceso("P1",10,"Tarea Chida",1,0);
         p1.CrearListadeTarea();
